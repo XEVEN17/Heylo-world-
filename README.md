@@ -1,9 +1,9 @@
 # Heylo-world-
 it takes me more than once 
-# H1 "All About Me"
+#  "All About Me"
 **Jessica is the most prettyful and awesome wife**
 *Arya is our daughter, she is four months old*
-> Arya like to slober everywhere
+> Arya likes to slober everywhere
 
 1. I am 46 years old American in Maine trying to learn to code 
 
